@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "image": "./public/images/story-images/1.jpg",
+    "image": "https://alidarvish1.github.io/twoBanners2ndApi/images/banner-3.jpg",
     "text": "banner-1"
   },
   {
     "id": 2,
-    "image": "./public/images/story-images/1.jpg",
+    "image": "https://alidarvish1.github.io/twoBanners2ndApi/images/banner-4.jpg",
     "text": "banner-2"
   }
 ]
